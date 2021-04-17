@@ -249,7 +249,7 @@ footer a {
 }
 
 .fa-instagram {
-    background-color: rgba(111, 19, 51, 0.994);
+    background: linear-gradient(#af40e6, #5851db, #b46f3a, #c13584, #e1306c, #fd891d);
     color: rgb(202, 193, 193);
     font-weight: 600;
     font-size: 40px;
@@ -268,7 +268,7 @@ footer a {
 .fa-envelope-open-text {
     font-size: 40px;
     font-weight: 600;
-    color: rgba(111, 28, 19, 0.994);
+    color: rgba(182, 53, 38, 0.994);
 }
 
 .fa-github-square {
