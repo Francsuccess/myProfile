@@ -228,3 +228,17 @@ footer a {
     font-weight: 500;
     color: whitesmoke;
 }
+
+.download {
+    position: relative;
+}
+
+.download a {
+    position: absolute;
+    bottom: 0;
+    right: 0px;
+    color: white;
+    background-color: red;
+    text-decoration: none;
+    text-transform: capitalize;
+}
